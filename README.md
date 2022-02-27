@@ -47,6 +47,7 @@ A curated list of awesome job boards.
 * [CryptoJobs](https://crypto.jobs/)
 * [Blockew](https://blockew.com/)
 * [Cryptocurrency Jobs](https://cryptocurrencyjobs.co/)
+* [Remote Web3 Jobs](https://remote3.co/)
 
 ## Design
 
